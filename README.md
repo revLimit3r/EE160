@@ -1,3 +1,3 @@
 # EE160
 Communication Systems
-This is my lab report.
+Fall 2016
